@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
  <img style="width:80%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=Ankit-29&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true">
 
+[About Me](https://about.me/itsankit)

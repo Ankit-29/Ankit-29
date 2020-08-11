@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## [About Me](https://about.me/itsankit)
+
+[![Ankit](https://github-readme-stats.vercel.app/api?username=Ankit-29&count_private=true)](https://github.com/Ankit-29)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ankit-29&repo=oscillator)](https://github.com/Ankit-29/oscillator)
 
 
- <img style="width:80%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=Ankit-29&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true">
 
-[About Me](https://about.me/itsankit)

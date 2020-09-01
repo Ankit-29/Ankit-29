@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ankit-29&repo=flipCards)](https://github.com/Ankit-29/flipCards)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ankit-29&repo=TICTACTOE_AI)](https://github.com/Ankit-29/TICTACTOE_AI)
+

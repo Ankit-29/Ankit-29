@@ -1,5 +1,3 @@
-## Hi There!
-
 ## [About Me](https://about.me/itsankit)
 
 [![Ankit](https://github-readme-stats.vercel.app/api?username=Ankit-29&count_private=true)](https://github.com/Ankit-29)
